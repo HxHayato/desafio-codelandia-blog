@@ -85,6 +85,7 @@ header .navbar .container-item a:hover {
 
 main {
     padding: 50px 0;
+    min-height: calc(87vh - 300px);
     width: 100%;
     display: flex;
     flex-direction: column;
